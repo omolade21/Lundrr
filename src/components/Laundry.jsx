@@ -14,7 +14,7 @@ const NavBar = () => {
 
   return (
     <>
-      <nav className="w-full">
+      <nav className="w-full ">
         <div className="bg-fff justify-between px-0 lg:px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
@@ -66,7 +66,7 @@ const NavBar = () => {
               }`}
             >
               <ul className="items-center justify-around  space-y-10 ml-2 md:flex md:space-x-6 md:space-y-0 font-nexaRegular">
-                <li className="text-black  text-sm">
+                <li className="text-black  text-lg lg:text-sm pt-0 lg:pt-1">
                   <a
                     href="javascript:void(0)"
                     onClick={() => {
@@ -80,23 +80,23 @@ const NavBar = () => {
                         position: "relative",
                         top: "1px",
                         fontSize: "16px",
-                        left: "3px",
+                        left: "5px",
                       }}
                     ></i>
                   </a>
                 </li>
 
                 <Link spy={true} to="HowItWorks" smooth={true}>
-                  <li className="text-black text-lg font-nexaRegular pt-2">
+                  <li className="text-black text-lg lg:text-sm font-nexaRegular pt-2 lg:pt-1">
                     <a href="javascript:void(0)">How it works</a>
                   </li>
                 </Link>
                 <Link spy={true} to="Services" smooth={true}>
-                  <li className="text-black text-lg pt-2">
+                  <li className="text-black text-lg lg:text-sm pt-2 lg:pt-1">
                     <a href="javascript:void(0)">Services</a>
                   </li>
                 </Link>
-                <li className="text-black text-lg pt-12 relative bottom-20">
+                <li className="text-black text-lg lg:text-sm pt-12 lg:pt-1 relative -top-20 lg:-top-0 font-nexaRegular">
                   <a
                     href="javascript:void(0)"
                     onClick={() => {
@@ -110,13 +110,14 @@ const NavBar = () => {
                         position: "relative",
                         top: "1px",
                         fontSize: "16px",
+                        left:"5px"
                       }}
                     ></i>
                   </a>
                 </li>
               </ul>
 
-              <div className="mt-3 space-y-2 lg:hidden md:inline-block relative bottom-14">
+              <div className="mt-3 space-y-2 lg:hidden md:inline-block relative bottom-16">
                 <a
                   href="javascript:void(0)"
                   className="inline-block ml-1 px-4 py-2 text-center text-white bg-black rounded-md  hover:bg-gray-800"

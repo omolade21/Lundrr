@@ -176,7 +176,7 @@ const Footer = () => {
         <footer class="bg-white  lg:text-left my-10 block lg:hidden">
           <div class=" p-1 lg:p-6">
             <div class=" lg:ml-28 ml-2 my-6 grid md:grid-cols-2 lg:grid-cols-4">
-              <div class="mb-6 ml-4 lg:ml-10">
+              <div class="mb-6 ml-4 lg:ml-10 text-center">
                 <h5 class="mb-2.5  font-nexaRegular text-black text-xl lg:text-2xl">
                   Our Services
                 </h5>
@@ -218,7 +218,7 @@ const Footer = () => {
                 </ul>
               </div>
 
-              <div class="mb-6 ml-4 lg:ml-10 font-nexaRegular">
+              <div class="mb-6 ml-4 lg:ml-10 font-nexaRegular text-center">
                 <h5 class="mb-2.5  text-black text-xl lg:text-2xl">
                   Follow us
                 </h5>
@@ -250,7 +250,7 @@ const Footer = () => {
                 </ul>
               </div>
 
-              <div class="mb-6 ml-4 lg:ml-10 font-nexaRegular">
+              <div class="mb-6 ml-4 lg:ml-10 font-nexaRegular text-center">
                 <h5 class="mb-2.5  text-black text-xl lg:text-2xl">Company</h5>
 
                 <ul class="mb-0 list-none" style={{ lineHeight: "42px" }}>
