@@ -9,7 +9,7 @@ const SecondPage = () => {
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 lg:gap-8">
           <div class="p-0 lg:p-12 md:p-12  mt-10 lg:mt-16">
             <h2
-              className="text-3xl lg:text-4xl p-0 ml-2 lg:ml-0 md:ml-0 font-semibold lg:p-2 font-mono"
+              className="text-3xl lg:text-4xl p-0 ml-2 lg:ml-0 md:ml-0 font-semibold lg:p-2 font-nexa"
               style={{ lineHeight: "64px" }}
             >
               Laundry and Dry- <br /> Cleaning got easier!
