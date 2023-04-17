@@ -65,7 +65,7 @@ const NavBar = () => {
                 navbar ? "block" : "hidden"
               }`}
             >
-              <ul className="items-center justify-around space-y-8 ml-2 md:flex md:space-x-6 md:space-y-0 font-nexaRegular">
+              <ul className="items-center justify-around  space-y-10 ml-2 md:flex md:space-x-6 md:space-y-0 font-nexaRegular">
                 <li className="text-black  text-sm">
                   <a
                     href="javascript:void(0)"
@@ -87,16 +87,16 @@ const NavBar = () => {
                 </li>
 
                 <Link spy={true} to="HowItWorks" smooth={true}>
-                  <li className="text-black text-sm font-nexaRegular">
+                  <li className="text-black text-lg font-nexaRegular pt-2">
                     <a href="javascript:void(0)">How it works</a>
                   </li>
                 </Link>
                 <Link spy={true} to="Services" smooth={true}>
-                  <li className="text-black text-sm">
+                  <li className="text-black text-lg pt-2">
                     <a href="javascript:void(0)">Services</a>
                   </li>
                 </Link>
-                <li className="text-black text-sm">
+                <li className="text-black text-lg pt-12 relative bottom-20">
                   <a
                     href="javascript:void(0)"
                     onClick={() => {
@@ -116,7 +116,7 @@ const NavBar = () => {
                 </li>
               </ul>
 
-              <div className="mt-3 space-y-2 lg:hidden md:inline-block">
+              <div className="mt-3 space-y-2 lg:hidden md:inline-block relative bottom-14">
                 <a
                   href="javascript:void(0)"
                   className="inline-block ml-1 px-4 py-2 text-center text-white bg-black rounded-md  hover:bg-gray-800"

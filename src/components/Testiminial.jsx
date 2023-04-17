@@ -13,7 +13,7 @@ import { Pagination } from "swiper";
 const Testiminial = () => {
   return (
     <div>
-      <div className="bg-blue w-full">
+      <div className="bg-blue w-full mt-8">
         <p className="text-center text-base font-nexa text-bluish p-6">
           Testimonies
         </p>
