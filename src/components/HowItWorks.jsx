@@ -248,7 +248,7 @@ const HowItWorks = () => {
               Tell us about you and your cleaning needs.
             </p>
             <div className="my-8">
-              <button class=" border font-nexaRegular border-blackk  text-black text-lg py-2 px-2 hover:cursor-pointer hover:bg-blue-2 ease-in duration-300 hover:border-none hover:text-fff">
+              <button class=" border font-nexaRegular border-blackk rounded text-black text-lg py-2 px-2 hover:cursor-pointer hover:bg-blue-2 ease-in duration-300 hover:border-none hover:text-fff">
                 Schedule a pickup
               </button>
             </div>
