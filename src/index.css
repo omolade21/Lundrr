@@ -1,13 +1,158 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
+
+
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+::-webkit-scrollbar-track {
+  background: #F5F5F5;
+  border-radius: 30px;
+}
+::-webkit-scrollbar-thumb {
+  background: #C2C2C2;
+  border-radius: 4px;
+  width: 5px;
+height: 198px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/Nexa-Trial-Black.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/Nexa-Trial-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/Nexa-Trial-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/Nexa-Trial-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/Nexa-Trial-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/NexaText-Trial-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/NexaText-Trial-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Nexa";
+    src: url("../public/font/Nexa/NexaText-Trial-ExtraBold.ttf");
+  }
+  
+
+div.textimony {
+  width: 568px;
+  height: 96px;
+}
+div.box {
+  width: 1184px;
+  height: 244px;
+}
+div.textimony .box-content {
+  line-height: 64px;
+}
+.box-contact {
+  width: 1183px;
+  height: 388px;
+}
+.div-box {
+  width: 470px;
+  height: 68px;
+}
+.group-img {
+  width: 151px;
+  height: 53px;
+}
+
+.pricingBox{
+  width: 980px;
+  height: 46px;
+}
+.box-2{
+  width: 755px;
+  height: 494px;
+  position: relative;
+  left: 21.4rem;
+top: -494px;
+}
+.test-animate{
+  
+    animation: test-animate 1s linear forwards;
+
+
+}
+
+@keyframes test-animate {
+    0%{
+        transform: translate(100px);
+        opacity: 0;
+}
+    100%{
+        transform: translate(0px);
+        opacity: 1;   
+    }
+}
+h3.test-animate {
+  animation-delay: 2s;
+}
+@media screen and (max-width: 560px) {
+  div.textimony {
+    line-height: 32px;
+    width: 303px;
+    height: 129px;
+    text-align: center;
+  }
+  div.textimony .box-content {
+    line-height: 43px;
+  }
+  .box-contact {
+    width: 390px;
+    height: 634px;
+  }
+  div.box {
+    width: 361px;
+    height: 310px;
+  }
+  .arrow-img {
+    width: 112.22px;
+    height: 26.93px;
+  }
+  .apstore {
+    width: 109px;
+    height: 32px;
+  }
+  .googlestore {
+    width: 106px;
+    height: 32px;
+  }
+  .logo {
+    width: 181px;
+    height: 35px;
+  }
+  .hero-image {
+    width: 382px;
+    height: 352px;
+  }
+  .div-box {
+    width: 329px;
+    height: 37px;
+  }
+  .group-img {
+    width: 101px;
+    height: 33px;
+  }
 }
