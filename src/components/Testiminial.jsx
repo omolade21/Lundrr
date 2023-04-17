@@ -522,7 +522,7 @@ const Testiminial = () => {
             </SwiperSlide>
             <SwiperSlide>
               <div
-                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-mdmx-auto"
+                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-auto"
                 style={{ width: "320px", height: "250px" }}
               >
                 <span className="flex gap-2 mx-3">
@@ -717,7 +717,7 @@ const Testiminial = () => {
                 </span>
               </div>
               <div className="py-0 lg:py-8">
-                <button class="bg-black font-nexaRegular text-white text-lg mt-14 ml-8 lg:mt-0  py-2 px-4 lg:ml-10  rounded">
+                <button class="bg-black font-nexaRegular text-white text-lg mt-14 ml-12 lg:mt-0  py-2 px-4 lg:ml-10  rounded">
                   Schedule a pickup
                 </button>
               </div>
