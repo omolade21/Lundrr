@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Lundrr/static/css/main.a9cd9e73.css",
+    "main.js": "/Lundrr/static/js/main.670039f6.js",
+    "static/media/Nexa-Trial-Black.ttf": "/Lundrr/static/media/Nexa-Trial-Black.28d7ab05eaf4a82f3c29.ttf",
+    "static/media/Nexa-Trial-Bold.ttf": "/Lundrr/static/media/Nexa-Trial-Bold.3793bb0528f37b7db223.ttf",
+    "static/media/Nexa-Trial-ExtraBold.ttf": "/Lundrr/static/media/Nexa-Trial-ExtraBold.f4e11612324a155f7e87.ttf",
+    "static/media/NexaText-Trial-ExtraBold.ttf": "/Lundrr/static/media/NexaText-Trial-ExtraBold.6a77000dfa5ab66fe74c.ttf",
+    "static/media/NexaText-Trial-Bold.ttf": "/Lundrr/static/media/NexaText-Trial-Bold.3b6ce39b3948ef88b903.ttf",
+    "static/media/Nexa-Trial-Regular.ttf": "/Lundrr/static/media/Nexa-Trial-Regular.f0d9ac0976b38c7b26b6.ttf",
+    "static/media/NexaText-Trial-Regular.ttf": "/Lundrr/static/media/NexaText-Trial-Regular.55c82bebf4f1877501c7.ttf",
+    "static/media/Group.svg": "/Lundrr/static/media/Group.4554e7d6092df345952888c09cece14c.svg",
+    "static/media/Hero.png": "/Lundrr/static/media/Hero.31298be9bfb9074899ad.png",
+    "static/media/Frame19.png": "/Lundrr/static/media/Frame19.e49928f26565170458c7.png",
+    "static/media/Frame-4.png": "/Lundrr/static/media/Frame-4.938ae762fd9e332e1878.png",
+    "static/media/Frame15.png": "/Lundrr/static/media/Frame15.849c3460d3d89e21db2b.png",
+    "static/media/Frame.svg": "/Lundrr/static/media/Frame.6651f87c05a362401c4cc4cbbf02c667.svg",
+    "static/media/Frame-9.png": "/Lundrr/static/media/Frame-9.863b2a3208daddf973d8.png",
+    "static/media/Frame18.png": "/Lundrr/static/media/Frame18.b142b173a0d55daaa789.png",
+    "static/media/Frame14.png": "/Lundrr/static/media/Frame14.b200d676af0f5f5983e5.png",
+    "static/media/Frame12.png": "/Lundrr/static/media/Frame12.4094b9d86ee3f9ecea52.png",
+    "static/media/Frame16.png": "/Lundrr/static/media/Frame16.0023e86619deeb35cfc2.png",
+    "static/media/Logo.svg": "/Lundrr/static/media/Logo.659ac766dc16837c372f550580a4bd82.svg",
+    "static/media/smartphone.png": "/Lundrr/static/media/smartphone.768aead68861080391ba.png",
+    "static/media/Frame10.png": "/Lundrr/static/media/Frame10.4e2f9c0084a5eb12530d.png",
+    "static/media/Frame11.png": "/Lundrr/static/media/Frame11.ae063109d6b3d3e1287a.png",
+    "static/media/Frame13.png": "/Lundrr/static/media/Frame13.433a41132981436905af.png",
+    "index.html": "/Lundrr/index.html",
+    "main.a9cd9e73.css.map": "/Lundrr/static/css/main.a9cd9e73.css.map",
+    "main.670039f6.js.map": "/Lundrr/static/js/main.670039f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9cd9e73.css",
+    "static/js/main.670039f6.js"
+  ]
+}
