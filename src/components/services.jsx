@@ -6,7 +6,7 @@ import Frame13 from '../images/Frame13.png'
 import Frame14 from '../images/Frame14.png'
 import Frame15 from '../images/Frame15.png'
 import Frame16 from '../images/Frame16.png'
-import Slider from "./Slider";
+
 import SliderComponent from "./slides";
 
 const Services = () => {
