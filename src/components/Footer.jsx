@@ -173,10 +173,10 @@ const Footer = () => {
         {/* laptop size */}
 
         {/* mobile start */}
-        <footer class="bg-white  lg:text-left my-10 block lg:hidden">
-          <div class=" p-1 lg:p-6">
-            <div class=" lg:ml-28 ml-2 my-6 grid md:grid-cols-2 lg:grid-cols-4">
-              <div class="mb-6 ml-4 lg:ml-10 text-center">
+        <footer class="bg-white   my-10 block lg:hidden">
+          <div class=" p-1">
+            <div class=" ml-2 my-6 grid md:grid-cols-2 lg:grid-cols-4">
+              <div class="mb-6 ml-4  text-center">
                 <h5 class="mb-2.5  font-nexaRegular text-black text-xl lg:text-2xl">
                   Our Services
                 </h5>
@@ -298,8 +298,8 @@ const Footer = () => {
             </div>
           </div>
           <hr
-            class="h-px border border-gray2 mx-auto"
-            style={{ width: "1184px" }}
+            class="h-px border border-gray2"
+          
           />
           <div class="p-4 text-center">
             <p className="text-gray text-sm lg:text-base pt-8 font-nexaRegular">

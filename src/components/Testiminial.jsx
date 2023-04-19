@@ -567,8 +567,8 @@ const Testiminial = () => {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div
-                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-6"
+            <div
+                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-auto"
                 style={{ width: "320px", height: "250px" }}
               >
                 <span className="flex gap-2 mx-3">
@@ -613,8 +613,8 @@ const Testiminial = () => {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div
-                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-6"
+            <div
+                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-auto"
                 style={{ width: "320px", height: "250px" }}
               >
                 <span className="flex gap-2 mx-3">
@@ -659,8 +659,8 @@ const Testiminial = () => {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div
-                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-6"
+            <div
+                class="py-6 bg-white hover:shadow-xl cursor-pointer rounded-md mx-auto"
                 style={{ width: "320px", height: "250px" }}
               >
                 <span className="flex gap-2 mx-3">
