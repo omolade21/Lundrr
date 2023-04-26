@@ -77,7 +77,7 @@ const HowItWorks = () => {
           <div class="py-10 ml-0 md:ml-0 lg:ml-32 bg-cyan-400 rounded-md flex flex-col">
             <div
               className="bg-blue rounded"
-              style={{ width: "124px", height: "34px" }}
+              style={{ width: "100px", height: "34px" }}
             >
               <span className="text-blue-2 font-nexa text-base ml-4">
                 Pickup
@@ -194,7 +194,7 @@ const HowItWorks = () => {
           <div class="pt-10 bg-cyan-400 rounded-md flex flex-col">
             <div
               className="bg-blue rounded"
-              style={{ width: "124px", height: "34px" }}
+              style={{ width: "100px", height: "34px" }}
             >
               <span className="text-blue-2 text-base font-nexa ml-4">
                 Pickup
