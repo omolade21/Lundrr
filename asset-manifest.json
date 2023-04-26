@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lundrr/static/css/main.7ad514c3.css",
-    "main.js": "/Lundrr/static/js/main.2ef9d910.js",
+    "main.js": "/Lundrr/static/js/main.d8dda5bd.js",
     "static/media/Nexa-Trial-Black.ttf": "/Lundrr/static/media/Nexa-Trial-Black.28d7ab05eaf4a82f3c29.ttf",
     "static/media/Nexa-Trial-Bold.ttf": "/Lundrr/static/media/Nexa-Trial-Bold.3793bb0528f37b7db223.ttf",
     "static/media/Nexa-Trial-ExtraBold.ttf": "/Lundrr/static/media/Nexa-Trial-ExtraBold.f4e11612324a155f7e87.ttf",
@@ -27,10 +27,10 @@
     "static/media/Frame13.png": "/Lundrr/static/media/Frame13.433a41132981436905af.png",
     "index.html": "/Lundrr/index.html",
     "main.7ad514c3.css.map": "/Lundrr/static/css/main.7ad514c3.css.map",
-    "main.2ef9d910.js.map": "/Lundrr/static/js/main.2ef9d910.js.map"
+    "main.d8dda5bd.js.map": "/Lundrr/static/js/main.d8dda5bd.js.map"
   },
   "entrypoints": [
     "static/css/main.7ad514c3.css",
-    "static/js/main.2ef9d910.js"
+    "static/js/main.d8dda5bd.js"
   ]
 }
